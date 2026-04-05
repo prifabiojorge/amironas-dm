@@ -1,0 +1,284 @@
+{
+  "rmsd_ca": {
+    "AF7": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.831,
+      "full_std": 0.193,
+      "equil_mean": 1.805,
+      "equil_std": 0.116,
+      "unit": "\u00c5"
+    },
+    "Alpha_Amirona": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.588,
+      "full_std": 0.169,
+      "equil_mean": 1.551,
+      "equil_std": 0.131,
+      "unit": "\u00c5"
+    },
+    "6_Epi": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 2.021,
+      "full_std": 0.2,
+      "equil_mean": 2.035,
+      "equil_std": 0.159,
+      "unit": "\u00c5"
+    },
+    "101663382": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.673,
+      "full_std": 0.278,
+      "equil_mean": 1.793,
+      "equil_std": 0.325,
+      "unit": "\u00c5"
+    },
+    "101685610": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.697,
+      "full_std": 0.127,
+      "equil_mean": 1.694,
+      "equil_std": 0.113,
+      "unit": "\u00c5"
+    }
+  },
+  "rmsd_bb": {
+    "AF7": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.805,
+      "full_std": 0.194,
+      "equil_mean": 1.778,
+      "equil_std": 0.118,
+      "unit": "\u00c5"
+    },
+    "Alpha_Amirona": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.568,
+      "full_std": 0.169,
+      "equil_mean": 1.532,
+      "equil_std": 0.131,
+      "unit": "\u00c5"
+    },
+    "6_Epi": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.998,
+      "full_std": 0.2,
+      "equil_mean": 2.01,
+      "equil_std": 0.16,
+      "unit": "\u00c5"
+    },
+    "101663382": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.649,
+      "full_std": 0.282,
+      "equil_mean": 1.771,
+      "equil_std": 0.331,
+      "unit": "\u00c5"
+    },
+    "101685610": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.67,
+      "full_std": 0.127,
+      "equil_mean": 1.663,
+      "equil_std": 0.115,
+      "unit": "\u00c5"
+    }
+  },
+  "rmsd_lig": {
+    "AF7": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 2.565,
+      "full_std": 0.802,
+      "equil_mean": 2.717,
+      "equil_std": 0.84,
+      "unit": "\u00c5"
+    },
+    "Alpha_Amirona": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 5.112,
+      "full_std": 1.971,
+      "equil_mean": 6.495,
+      "equil_std": 1.824,
+      "unit": "\u00c5"
+    },
+    "6_Epi": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 11.27,
+      "full_std": 18.489,
+      "equil_mean": 14.65,
+      "equil_std": 25.657,
+      "unit": "\u00c5"
+    },
+    "101663382": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 3.352,
+      "full_std": 0.343,
+      "equil_mean": 3.375,
+      "equil_std": 0.337,
+      "unit": "\u00c5"
+    },
+    "101685610": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 1.929,
+      "full_std": 6.52,
+      "equil_mean": 1.53,
+      "equil_std": 0.433,
+      "unit": "\u00c5"
+    }
+  },
+  "rg": {
+    "AF7": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 28.357,
+      "full_std": 0.103,
+      "equil_mean": 28.33,
+      "equil_std": 0.098,
+      "unit": "\u00c5"
+    },
+    "Alpha_Amirona": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 28.282,
+      "full_std": 0.138,
+      "equil_mean": 28.313,
+      "equil_std": 0.104,
+      "unit": "\u00c5"
+    },
+    "6_Epi": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 28.515,
+      "full_std": 0.126,
+      "equil_mean": 28.516,
+      "equil_std": 0.123,
+      "unit": "\u00c5"
+    },
+    "101663382": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 28.289,
+      "full_std": 0.093,
+      "equil_mean": 28.294,
+      "equil_std": 0.088,
+      "unit": "\u00c5"
+    },
+    "101685610": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 28.352,
+      "full_std": 0.088,
+      "equil_mean": 28.361,
+      "equil_std": 0.091,
+      "unit": "\u00c5"
+    }
+  },
+  "sasa_prot": {
+    "AF7": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 280.108,
+      "full_std": 3.724,
+      "equil_mean": 278.953,
+      "equil_std": 3.142,
+      "unit": "nm\u00b2"
+    },
+    "Alpha_Amirona": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 285.415,
+      "full_std": 3.902,
+      "equil_mean": 285.273,
+      "equil_std": 3.061,
+      "unit": "nm\u00b2"
+    },
+    "6_Epi": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 286.106,
+      "full_std": 3.798,
+      "equil_mean": 287.252,
+      "equil_std": 3.562,
+      "unit": "nm\u00b2"
+    },
+    "101663382": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 280.957,
+      "full_std": 4.076,
+      "equil_mean": 280.769,
+      "equil_std": 3.845,
+      "unit": "nm\u00b2"
+    },
+    "101685610": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 285.591,
+      "full_std": 3.332,
+      "equil_mean": 285.644,
+      "equil_std": 3.344,
+      "unit": "nm\u00b2"
+    }
+  },
+  "sasa_lig": {
+    "AF7": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 7.438,
+      "full_std": 0.212,
+      "equil_mean": 7.427,
+      "equil_std": 0.2,
+      "unit": "nm\u00b2"
+    },
+    "Alpha_Amirona": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 6.665,
+      "full_std": 0.192,
+      "equil_mean": 6.667,
+      "equil_std": 0.189,
+      "unit": "nm\u00b2"
+    },
+    "6_Epi": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 7.148,
+      "full_std": 0.202,
+      "equil_mean": 7.18,
+      "equil_std": 0.205,
+      "unit": "nm\u00b2"
+    },
+    "101663382": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 6.626,
+      "full_std": 0.214,
+      "equil_mean": 6.593,
+      "equil_std": 0.199,
+      "unit": "nm\u00b2"
+    },
+    "101685610": {
+      "coverage_ns": 100.0,
+      "n_frames": 1001,
+      "full_mean": 6.546,
+      "full_std": 0.194,
+      "equil_mean": 6.554,
+      "equil_std": 0.194,
+      "unit": "nm\u00b2"
+    }
+  }
+}

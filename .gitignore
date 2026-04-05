@@ -1,0 +1,35 @@
+# Exclude heavy trajectory/checkpoint files
+*.xtc
+*.trr
+*.cpt
+*.edr
+*.tpr
+*.gro
+
+# Exclude execution logs
+*.log
+*.err
+*.out
+
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.lnk
+
+# Exclude raw/intermediate data
+*_raw.dat
+*_traj.dat
+
+# Exclude Word documents (too large for git)
+*.docx
+*.pptx
+
+# Exclude PDFs
+*.pdf

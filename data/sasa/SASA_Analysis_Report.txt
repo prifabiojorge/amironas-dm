@@ -1,0 +1,110 @@
+
+================================================================================
+SYSTEM: 101663382
+================================================================================
+
+TRAJECTORY STATISTICS:
+  Frames: 951
+  Duration: 95.0 ns
+  Mean SASA: 7275.2 Å²
+  Stability: 97.9%
+  Status: UNSTABLE
+
+INTERFACE ANALYSIS:
+  Protein SASA: 280.71 nm²
+  Ligand SASA: 6.62 nm²
+  Complex SASA: 72.75 nm²
+  Buried SASA: 10728.9 Å²
+  Burial %: 100.0%
+  Binding Strength: STRONG
+  ΔG (estimate): -12.0 kcal/mol
+  ΔG (MM-PBSA): -58.86 kcal/mol
+  CI (95%): [-76.51, -41.20]
+
+================================================================================
+SYSTEM: 101685610
+================================================================================
+
+TRAJECTORY STATISTICS:
+  Frames: 951
+  Duration: 95.0 ns
+  Mean SASA: 7246.2 Å²
+  Stability: 99.8%
+  Status: STABLE
+
+INTERFACE ANALYSIS:
+  Protein SASA: 285.54 nm²
+  Ligand SASA: 6.54 nm²
+  Complex SASA: 72.46 nm²
+  Buried SASA: 10981.0 Å²
+  Burial %: 100.0%
+  Binding Strength: STRONG
+  ΔG (estimate): -12.0 kcal/mol
+  ΔG (MM-PBSA): -60.22 kcal/mol
+  CI (95%): [-78.28, -42.15]
+
+================================================================================
+SYSTEM: Epicyclomusalenone
+================================================================================
+
+TRAJECTORY STATISTICS:
+  Frames: 951
+  Duration: 95.0 ns
+  Mean SASA: 7233.1 Å²
+  Stability: 99.0%
+  Status: STABLE
+
+INTERFACE ANALYSIS:
+  Protein SASA: 285.95 nm²
+  Ligand SASA: 7.15 nm²
+  Complex SASA: 72.33 nm²
+  Buried SASA: 11038.3 Å²
+  Burial %: 100.0%
+  Binding Strength: STRONG
+  ΔG (estimate): -12.0 kcal/mol
+  ΔG (MM-PBSA): -60.53 kcal/mol
+  CI (95%): [-78.68, -42.37]
+
+================================================================================
+SYSTEM: AF7
+================================================================================
+
+TRAJECTORY STATISTICS:
+  Frames: 951
+  Duration: 95.0 ns
+  Mean SASA: 7228.0 Å²
+  Stability: 100.0%
+  Status: STABLE
+
+INTERFACE ANALYSIS:
+  Protein SASA: 279.73 nm²
+  Ligand SASA: 7.44 nm²
+  Complex SASA: 72.28 nm²
+  Buried SASA: 10744.2 Å²
+  Burial %: 100.0%
+  Binding Strength: STRONG
+  ΔG (estimate): -12.0 kcal/mol
+  ΔG (MM-PBSA): -58.94 kcal/mol
+  CI (95%): [-76.62, -41.26]
+
+================================================================================
+SYSTEM: α-Amyrone
+================================================================================
+
+TRAJECTORY STATISTICS:
+  Frames: 951
+  Duration: 95.0 ns
+  Mean SASA: 7257.6 Å²
+  Stability: 97.7%
+  Status: UNSTABLE
+
+INTERFACE ANALYSIS:
+  Protein SASA: 285.25 nm²
+  Ligand SASA: 6.66 nm²
+  Complex SASA: 72.58 nm²
+  Buried SASA: 10966.8 Å²
+  Burial %: 100.0%
+  Binding Strength: STRONG
+  ΔG (estimate): -12.0 kcal/mol
+  ΔG (MM-PBSA): -60.14 kcal/mol
+  CI (95%): [-78.18, -42.10]
